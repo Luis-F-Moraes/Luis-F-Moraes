@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Luis Freitas 😁
 
  <div>
-   <a href="https://github.com/Luis-F-Moreas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-F-Moreas&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/Luis-F-Moraes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-F-Moraes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-freitas&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
